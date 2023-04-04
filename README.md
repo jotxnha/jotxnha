@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá Pessoal 👋
 
-<!--
-**jotxnha/jotxnha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Sobre João Paulo
+Estudante de programação, com algum experiência em JavaScript, HTML e CSS.
+Na busca pela transição de carreira.
 
-Here are some ideas to get you started:
+### Detalhes
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotxnha&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projeto
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jotxnha&repo=TikTok-Project&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens Utilizadas
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jotxnha&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
